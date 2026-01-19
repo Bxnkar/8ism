@@ -1,4 +1,4 @@
-# 🤖🌈 8ism — AI-Powered Companion for Autistic Kids
+# 🤖 8ism — AI-Powered Companion for Autistic Kids
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="8ism Animation" />
