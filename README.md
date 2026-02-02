@@ -1,112 +1,81 @@
-# 🤖 8ism — AI-Powered Companion for Autistic Kids
+# 🕯️ 8ism — The Gentle Entity from the Other Side
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="8ism Animation" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280"/>
 </p>
 
-> **An interactive Augmented Reality + AI application designed to help autistic children practice daily chores, social interaction, and emotional recognition with a friendly virtual buddy named **8ism**.**
+> *“Not all mysteries are meant to frighten.  
+Some exist to guide, protect, and gently illuminate.”*
 
 ---
 
-## ✨ Features
+## 🕯️ What is 8ism?
 
-* 🧸 **AR Virtual Buddy** — Friendly 3D character guiding children
-* 🧠 **AI Emotion Recognition** — Detects facial expressions & mood
-* 🗣️ **Speech Interaction** — Simple voice-based commands & responses
-* 📅 **Daily Chore Trainer** — Step‑by‑step routine assistance
-* 🎮 **Gamified Rewards** — Stars, badges & animations
-* 📊 **Parent Dashboard** — Progress tracking
+**8ism** is an **AI-powered Augmented Reality companion** designed to help **autistic children** navigate daily routines, emotions, and social interactions —  
+**through a calm, friendly entity that exists between reality and imagination.**
+
+Inspired by the **Lord of the Mysteries (LOTM)** aesthetic,  
+8ism feels like a **benevolent Sealed Artifact** —  
+an ever-present guide that **never judges, never rushes, and never overwhelms.**
 
 ---
 
-## 🧩 How It Works (Animated Flow)
+## 🔮 Core Philosophy
+
+- 🕊️ **Low-Stimulation First** — no sudden sounds, harsh colors, or pressure
+- 🧠 **Observe, Don’t Command** — the system adapts to the child, not vice versa
+- 🎭 **Emotion as Knowledge** — feelings are signals, not problems
+- 🕯️ **Rituals Over Tasks** — routines are calm, repeatable ceremonies
+
+---
+
+## 🧸 The Entity: 8ism
+
+> *Designation:* Friendly Cognitive Companion  
+> *Threat Level:* None  
+> *Behavior:* Protective, Patient, Encouraging  
+
+**8ism appears as a soft AR being** — part guide, part friend —  
+leading children through small “rituals” that feel safe and familiar.
+
+- Appears only when invited
+- Speaks slowly and clearly
+- Uses gestures more than words
+- Rewards effort, not correctness
+
+---
+
+## ✨ Abilities (Features)
+
+🧸 **AR Companion Manifestation**  
+A calm 3D entity that exists in the child’s physical space
+
+🧠 **Emotion Recognition**  
+Detects facial cues to gently adjust tone and activity difficulty
+
+🗣️ **Speech Interaction**  
+Simple, predictable voice responses (no surprises)
+
+📜 **Daily Rituals (Chores)**  
+Brushing teeth, greeting others, organizing objects — step by step
+
+🎮 **Symbolic Rewards**  
+Stars, sigils, light pulses — no loud celebrations
+
+📊 **Observer Dashboard (Parents)**  
+Progress is tracked quietly in the background
+
+---
+
+## 🕯️ Ritual Flow (System Logic)
 
 ```mermaid
 flowchart TD
-    A[Child Opens App] --> B[8ism Appears]
-    B --> C{Select Activity}
-    C -->|Chores| D[Brush Teeth Routine]
-    C -->|Social| E[Greeting Practice]
-    C -->|Emotion| F[Emotion Game]
-    D --> G[Reward Badge]
+    A[Child Invokes 8ism] --> B[Entity Manifests]
+    B --> C{Chosen Ritual}
+    C -->|Daily Routine| D[Guided Chore]
+    C -->|Social| E[Interaction Practice]
+    C -->|Emotion| F[Feeling Recognition]
+    D --> G[Gentle Reward]
     E --> G
     F --> G
-```
-
----
-
-## 🎥 App Preview (Concept Animation)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="350" />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-| Layer    | Technology                 |
-| -------- | -------------------------- |
-| AR       | Unity + ARCore / ARKit     |
-| AI       | TensorFlow Lite, MediaPipe |
-| Backend  | FastAPI / Firebase         |
-| Frontend | Unity UI                   |
-| Database | Firestore                  |
-
----
-
-## 🧠 AI Modules
-
-* **Emotion Detection** — CNN model on facial landmarks
-* **Speech Recognition** — Whisper / Google STT
-* **Routine Prediction** — LSTM for habit modeling
-* **Behavior Scoring** — Reinforcement Learning
-
----
-
-## 🚀 Installation
-
-```bash
-git clone https://github.com/Bxnkar/8ism.git
-cd 8ism
-pip install -r requirements.txt
-```
-
----
-
-## 📸 Screenshots (Animated)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" />
-</p>
-
----
-
-## 🎯 Future Scope
-
-* 🌍 Multi‑language support
-* 🤝 Therapist integration
-* 🕶️ VR Mode
-* 📈 Advanced analytics
-
----
-
-## 👨‍💻 Author
-**Om Bankar**
-**Piyush Bambori**
-BTech CSE (AI & ML) — Atlas SkillTech University
-
----
-
-## ⭐ Show Some Love
-
-If you like this project, give it a ⭐ on GitHub!
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="150" />
-  <br>
-  <strong>"Learning made joyful with 8ism 💙"</strong>
-</p>
