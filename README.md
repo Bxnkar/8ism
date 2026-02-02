@@ -3,13 +3,14 @@
 <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="120"/>
 
 # 🤖 8ism  
-## *A Gentle Entity Sealed Between Reality and Mind*
+## *A Benevolent Entity Sealed Between Reality and Mind*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=8B9CFF&center=true&vCenter=true&width=640&lines=AI+Powered+Companion+for+Autistic+Children;Augmented+Reality+%7C+Emotion+Aware+Intelligence;A+Benevolent+Mystery+That+Guides+Without+Judging;Inspired+by+Lord+of+the+Mysteries" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=8B9CFF&center=true&vCenter=true&width=680&lines=AI-Powered+Companion+for+Autistic+Children;Augmented+Reality+%7C+Emotion-Aware+Intelligence;A+Gentle+Entity+That+Guides+Without+Judgment;Inspired+by+Lord+of+the+Mysteries" />
 
 <img src="https://img.shields.io/badge/Artifact_Status-Sealed-blueviolet?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Threat_Level-Zero-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Entity_Class-Benevolent-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Domain-AR+%2B+AI-darkslateblue?style=for-the-badge" />
 
 </div>
 
@@ -19,55 +20,81 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
 </p>
 
-> *“There are entities born not of fear,  
-but of compassion —  
-created to stand quietly beside those who struggle.”*
+> *“Some entities are not born from fear,  
+but from the quiet need to protect.”*
 
 ---
 
 ## 🕯️ What Is 8ism?
 
-**8ism** is an **AI-powered Augmented Reality companion** designed to assist  
-**autistic children** in navigating:
+**8ism** is an **AI-powered Augmented Reality companion** designed to support  
+**autistic children** in learning and practicing:
 
-- Daily routines  
+- Daily life routines  
 - Social interaction  
 - Emotional recognition  
 
-It does so **not as an assistant**,  
-but as a **gentle, ritual-like presence** —  
-a calm entity that exists **between reality and imagination**.
+Rather than functioning as a loud assistant or instructor,  
+8ism manifests as a **calm, predictable, and emotionally aware entity** —  
+existing gently between **reality and imagination**.
 
-8ism does not command.  
-8ism does not rush.  
-8ism waits.
+It does not command.  
+It does not rush.  
+It waits.
 
 ---
 
-## 🌑 Design Ethos — The Gentle Mystery
+## 🌑 Design Philosophy — The Gentle Mystery Doctrine
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260"/>
 </p>
 
-Inspired by the **Lord of the Mysteries (LOTM)** universe,  
-8ism follows a **Benevolent Entity Doctrine**:
+Inspired by the **Lord of the Mysteries (LOTM)** aesthetic,  
+8ism follows a **Benevolent Entity Design Model**:
 
-🕯️ **Low Stimulation Over Excitement**  
-🕯️ **Observation Over Instruction**  
-🕯️ **Ritual Over Task Lists**  
-🕯️ **Emotions as Signals, Not Errors**  
+🕯️ **Low stimulation over excitement**  
+🕯️ **Observation over instruction**  
+🕯️ **Rituals over task lists**  
+🕯️ **Emotions as signals, not errors**  
+🕯️ **No failure states**  
 
-The child adapts at their own pace.  
-The system adapts faster.
+Every interaction is optional.  
+Every silence is respected.
 
 ---
+Astral Snapshots — Concept Visuals
+<p align="center"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/> <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250"/> </p>
+---
+🌘 Future Evolutions — Unsealed Paths
 
-## 🧸 The Entity — 8ism
+🌍 Multi-language entities
+🤝 Therapist-guided ritual modes
+🕶️ VR Safe-Realm Environment
+📈 Advanced analytics with ethical AI
+---
+👁️‍🗨️ Developers — The Observers
+
+Om Bankar
+AR Development • System Design
+
+Piyush Bambori
+AI & ML • Backend • System Architecture
+---
+Strengthen the Seal
+If this project resonates with you,
+leave a ⭐ on GitHub  it helps the entity endure.
+---
+<p align="center"> <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="150"/><br> <strong>“Even in darkness, learning can remain gentle.”</strong> </p> ```
+
+## 🧸 The Entity Profile — 8ism
 
 ```text
-Designation      : 8ism
-Classification   : Cognitive Companion Entity
-Temperament     : Calm, Patient, Protective
-Manifestation   : Augmented Reality
-Activation Rule : User-Initiated Only
+Designation        : 8ism
+Classification     : Cognitive Companion Entity
+Alignment          : Benevolent
+Temperament        : Calm, Patient, Protective
+Manifestation      : Augmented Reality
+Activation Rule    : User-Initiated Only
+=
+Deactivation Rule  : Automatic on Overstimulation
